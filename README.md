@@ -23,3 +23,7 @@ Rules
 * The game continues until one of the players discards all the cards. After that, the points are calculated by the remaining cards with the other players.
 
 * The winner of the game is decided based on the points after playing the game for certain amount of rounds.
+
+Team Members
+-----
+Sowmya Betina
