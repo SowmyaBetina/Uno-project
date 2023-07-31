@@ -1,4 +1,4 @@
-# Uno-project
+e# Uno-project
 Prodapt Java BootCamp project
 UNO - Group 5
 ===
@@ -28,6 +28,6 @@ Team Members
 ----------------------------
 * Sowmya Betina
 * Srivasthavi Mannepula
-* Gaurav Hajare
+* Gaurav Hajaree
 * Harshitha Modali
 
