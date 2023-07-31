@@ -1,6 +1,6 @@
 # Uno-project
 Prodapt Java BootCamp project
-UNO
+UNO - Group 5
 ===
 
 Description
@@ -30,4 +30,4 @@ Team Members
 * Srivasthavi Mannepula
 * Gaurav Hajare
 * Harshitha Modali
-*(Group 5)*
+
