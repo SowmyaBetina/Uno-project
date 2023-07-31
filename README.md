@@ -25,7 +25,7 @@ Rules
 * The winner of the game is decided based on the points after playing the game for certain amount of rounds.
 
 Team Members
------
+----------------------------
 * Sowmya Betina
 * Srivasthavi Mannepula
 * Gaurav Hajare
