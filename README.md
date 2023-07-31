@@ -26,6 +26,6 @@ Rules
 
 Team Members
 -----
-Sowmya Betina
-Srivasthavi Mannepula
-Gaurav Hajare
+* Sowmya Betina
+* Srivasthavi Mannepula
+* Gaurav Hajare
