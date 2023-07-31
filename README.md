@@ -29,3 +29,4 @@ Team Members
 * Sowmya Betina
 * Srivasthavi Mannepula
 * Gaurav Hajare
+* Harshitha Modali
